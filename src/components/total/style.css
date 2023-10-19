@@ -1,0 +1,24 @@
+.div-total {
+  width: 90%;
+  padding: 20px;
+  border: 2px solid var(--grey-2);
+  margin-top: 20px;
+  border-radius: var(--radius-03);
+  margin-left: 20px;
+}
+.div-total-value {
+  display: flex;
+  justify-content: space-between;
+}
+.div-total-value > h2 {
+  font-size: var(--font-size-2);
+  color: var(--grey-4);
+  margin-bottom: 20px;
+}
+.div-total-value > h3 {
+  font-size: var(--font-size-2);
+  color: var(--color-primary);
+}
+.advice {
+  font-size: var(--font-size-3);
+}
